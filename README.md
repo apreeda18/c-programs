@@ -1,2 +1,1 @@
-# c-programs
-all c programs done in first semester is available
+All important topics code and concept in C is available.
